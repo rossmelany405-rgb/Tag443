@@ -1,0 +1,53 @@
+#navigation-block {
+	position:relative;
+	width:235px;
+	height:289px;
+	background:url(img-effect-styles/background.jpg) left top repeat-x;
+	padding-top:15px;
+}
+
+#hide {
+	position:absolute;
+	top:30px;
+	left:-190px;
+}
+
+ul#sliding-navigation
+{
+	list-style: none;
+	font-size: .75em;
+	margin:0 0 0 15px;
+	padding: 0;
+}
+
+ul#sliding-navigation li.sliding-element h3,
+ul#sliding-navigation li.sliding-element a
+{
+	display: block;
+	width: 160px;
+	padding: 10px 25px;
+	margin: 0;
+	margin-bottom: 5px;
+	
+}
+
+ul#sliding-navigation li
+{
+	background:url(img-effect-styles/menu-devidor.png) left bottom no-repeat;
+}
+ul#sliding-navigation li.sliding-element h3
+{
+	color: #fff;
+	background:#333 url(img-effect-styles/heading_bg.jpg) repeat-y;
+	font-weight: normal;
+}
+
+ul#sliding-navigation li.sliding-element a
+{	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	background:url(img-effect-styles/menu-arrow.png) left center no-repeat;
+	
+	text-decoration: none;
+}
+
+ul#sliding-navigation li.sliding-element a:hover { color: #000; }
