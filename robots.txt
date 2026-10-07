@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rossmelany405-rgb.github.io/Tag443/sitemap.xml
