@@ -1,6 +1,6 @@
 # TAG 443 Architectural Design College
 
-Static website for TAG 443 College (The Academy of Guilds), Woodstock, Cape Town, hosted on GitHub Pages:
+Static website for TAG 443 College (The Academy of Guilds), Upington, Northern Cape, hosted on GitHub Pages:
 
 **https://rossmelany405-rgb.github.io/Tag443/**
 

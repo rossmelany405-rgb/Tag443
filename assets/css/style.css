@@ -672,6 +672,14 @@ figure.wide img { width: 100%; border-radius: var(--radius-sm); }
 }
 .contact-grid .details dt:first-child { margin-top: 0; }
 .contact-grid img { border-radius: var(--radius-sm); }
+.map-embed {
+  aspect-ratio: 4 / 3;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  background: var(--page);
+}
+.map-embed iframe { width: 100%; height: 100%; border: 0; display: block; }
 
 .podium { padding-left: 0; list-style: none; }
 .podium li {
